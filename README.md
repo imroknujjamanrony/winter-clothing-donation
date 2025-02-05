@@ -8,9 +8,9 @@ The goal of this project is to create a simple, user-friendly interface for faci
 
 ## Live URL
 
-[Winter Clothing Donation Website](https://www.notion.so/127823875a3e809d884beea8a8532606?pvs=21)
+[Winter Clothing Donation Website](https://winter-clothing-donation-ec332.web.app/home)
 
-_(Replace `#` with your actual live URL once deployed.)_
+
 
 ## Key Features
 
